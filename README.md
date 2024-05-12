@@ -14,3 +14,6 @@
   - password jika ada kalo tidak di kosongkan saja
   - inventory nama database.
 - Terakhir jalankan aplikasi di Localhost server anda.
+
+### Menggunakan Template adminLTE
+- Cek disini https://github.com/ColorlibHQ/AdminLTE
