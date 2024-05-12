@@ -9,7 +9,7 @@
       $username = 'root';
       $password = '';
       $database = 'inventory';
-      $base_url = 'http://localhost/inventory/'; //base url ubah sesuai nama folde yang dibuat
+      $base_url = 'http://localhost/inventory/'; //base url ubah sesuai nama folder aplikasi
 
       $conn = mysqli_connect($host, $username, $password, $database);
       ?>
