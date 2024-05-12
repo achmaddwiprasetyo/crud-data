@@ -16,4 +16,4 @@
 - Terakhir jalankan aplikasi di Localhost server anda.
 
 ### Menggunakan Template adminLTE
-- Cek disini https://github.com/ColorlibHQ/AdminLTE
+- Cek disini [image-comparison](https://github.com/ColorlibHQ/AdminLTE)
