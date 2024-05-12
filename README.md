@@ -5,6 +5,12 @@
 - Sebuah file `koneksi.php` berada di folder system untuk mengatur koneksi ke database sebagai berikut :
   ```php
       <?php
+      $host = 'localhost';
+      $username = 'root';
+      $password = '';
+      $database = 'inventory';
+      $base_url = 'http://localhost/inventory/'; //base url ubah sesuai nama folde yang dibuat
+
       $conn = mysqli_connect($host, $username, $password, $database);
       ?>
   ```
