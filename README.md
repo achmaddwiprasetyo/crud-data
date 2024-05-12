@@ -1,8 +1,7 @@
 ## Panduan Penggunaan
 
 - Buat sebuah database di `phpmyadmin` dengan nama database `inventory`
-- Tabel database berada di folde db
-- Lakukan <b>Import</b> database dari folder `database` kedalam database yang dibuat pada phpmyadmin
+- Lakukan <b>Import</b> database dari folder `db` kedalam database yang dibuat pada phpmyadmin
 - Sebuah file `koneksi.php` berada di folder system untuk mengatur koneksi ke database sebagai berikut :
   ```php
       <?php
